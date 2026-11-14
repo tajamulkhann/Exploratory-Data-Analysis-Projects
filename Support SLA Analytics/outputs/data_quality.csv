@@ -1,0 +1,7 @@
+,dtype,missing,unique_values
+ticket_id,int64,0,3500
+date,datetime64[ns],0,731
+priority,object,0,3
+first_response_hours,float64,47,1750
+resolution_hours,float64,401,3099
+csat,float64,1777,5

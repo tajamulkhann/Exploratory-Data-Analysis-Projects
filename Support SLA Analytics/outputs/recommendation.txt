@@ -1,0 +1,1 @@
+High has the lowest eligible first-response SLA compliance (34.43%). Investigate triage and staffing while retaining overdue unanswered tickets in the metric.

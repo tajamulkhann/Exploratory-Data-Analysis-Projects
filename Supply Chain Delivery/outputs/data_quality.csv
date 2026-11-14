@@ -1,0 +1,10 @@
+,dtype,missing,unique_values
+po_id,int64,0,2600
+date,datetime64[ns],0,365
+supplier,object,0,4
+ordered_units,int64,0,230
+delivered_units,int64,0,245
+promised_days,int64,0,14
+actual_days,int64,0,19
+stock_units,int64,0,759
+daily_demand,int64,0,60

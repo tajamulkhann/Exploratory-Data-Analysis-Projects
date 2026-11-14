@@ -1,0 +1,9 @@
+,dtype,missing,unique_values
+session_id,int64,0,9000
+date,datetime64[ns],0,365
+device,object,0,3
+visit,int64,0,1
+product_view,int64,0,2
+add_to_cart,int64,0,2
+checkout,int64,0,2
+purchase,int64,0,2

@@ -1,0 +1,8 @@
+,dtype,missing,unique_values
+date,datetime64[ns],0,365
+channel,object,0,4
+clicks,int64,0,391
+conversions,int64,0,41
+new_customers,int64,0,29
+spend,float64,0,1440
+attributed_revenue,float64,0,1437

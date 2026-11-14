@@ -1,0 +1,5 @@
+,dtype,missing,unique_values
+customer_id,int64,0,2200
+date,datetime64[ns],0,6
+plan,object,0,2
+first_inactive_month,int64,0,13

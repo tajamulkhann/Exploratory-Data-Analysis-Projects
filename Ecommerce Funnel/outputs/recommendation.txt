@@ -1,0 +1,1 @@
+Mobile has the lowest observed checkout completion (51.05%). Audit its payment journey and validate any fix with an experiment.

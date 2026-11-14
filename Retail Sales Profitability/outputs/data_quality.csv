@@ -1,0 +1,10 @@
+,dtype,missing,unique_values
+line_id,int64,0,6000
+date,datetime64[ns],0,365
+category,object,0,4
+region,object,0,4
+quantity,int64,0,5
+unit_price,float64,0,5305
+discount,float64,0,4
+returned,int64,0,2
+unit_cost,float64,0,5031

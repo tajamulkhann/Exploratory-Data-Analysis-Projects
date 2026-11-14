@@ -1,0 +1,6 @@
+,dtype,missing,unique_values
+date,datetime64[ns],0,12
+business_unit,object,0,3
+account,object,0,3
+budget,float64,0,108
+actual,float64,0,108

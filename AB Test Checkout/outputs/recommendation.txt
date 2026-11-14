@@ -1,0 +1,1 @@
+Estimated absolute lift is 1.897 percentage points (95% CI 0.725 to 3.068). Review commercial guardrails before rollout.

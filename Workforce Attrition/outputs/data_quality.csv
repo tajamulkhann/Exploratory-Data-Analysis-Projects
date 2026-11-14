@@ -1,0 +1,7 @@
+,dtype,missing,unique_values
+employee_id,int64,0,1800
+department,object,0,5
+tenure_years,float64,0,119
+engagement_score,int64,0,5
+annual_salary,int64,0,1773
+exited_2025,int64,0,2

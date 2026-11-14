@@ -1,0 +1,5 @@
+,dtype,missing,unique_values
+order_id,int64,0,6500
+customer_id,int64,0,1293
+date,datetime64[ns],0,365
+order_value,float64,0,5786

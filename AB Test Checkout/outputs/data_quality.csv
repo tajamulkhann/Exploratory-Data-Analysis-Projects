@@ -1,0 +1,4 @@
+,dtype,missing,unique_values
+user_id,int64,0,12000
+variant,object,0,2
+converted,int64,0,2
