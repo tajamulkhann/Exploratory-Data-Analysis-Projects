@@ -1,6 +1,6 @@
 # Python EDA Projects
 
-<img width="1280" height="720" alt="Default" src="https://github.com/user-attachments/assets/0deba9b6-3843-4378-a85a-8110c4f605f1" />
+<img width="1280" height="720" alt="Default (7)" src="https://github.com/user-attachments/assets/810f9078-705c-4482-969b-dcc60847aa43" />
 
 ## Let's Connect <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="30px" style="max-width:100%;">
 
