@@ -8,23 +8,23 @@ A collection of **15 Python exploratory data analysis projects** spanning retail
 
 ## Projects
 
-| # | Project | Analysis focus |
-|---:|---|---|
-| 1 | 911 Calls EDA | Emergency call patterns across time, locations and call categories. |
-| 2 | Flight Price EDA | Relationships between flight prices and travel characteristics. |
-| 3 | Google Local Market Sales Analysis | Local market sales patterns and business performance. |
-| 4 | Prediction of Hospital Readmission | Patient characteristics and factors associated with hospital readmission. |
-| 5 | Zomato Business EDA | Restaurant characteristics, ratings and pricing patterns. |
-| 6 | Supply Chain Delivery | Delivery performance, delays and operational patterns. |
-| 7 | Retail Sales Profitability | Sales, profit margins and product performance. |
-| 8 | Customer RFM Segmentation | Customer segmentation using recency, frequency and monetary value. |
-| 9 | Subscription Churn Cohorts | Subscription retention and churn across customer cohorts. |
-| 10 | Marketing Channel Performance | Channel effectiveness and marketing performance comparisons. |
-| 11 | Ecommerce Funnel | Customer progression and drop-off across funnel stages. |
-| 12 | Workforce Attrition | Workforce characteristics and attrition patterns. |
-| 13 | Finance Budget Variance | Differences between budgeted and actual financial performance. |
-| 14 | AB Test Checkout | Comparing checkout variants through experimental analysis. |
-| 15 | Support SLA Analytics | Support response times, resolution performance and SLA adherence. |
+| # | Project |
+|---:|---|
+| 1 | [911 Calls EDA](./911%20Calls%20EDA/) |
+| 2 | [Flight Price EDA](./Flight%20Price%20EDA/) |
+| 3 | [Google Local Market Sales Analysis](./Google%20Local%20Market%20Sales%20Analysis%20%F0%9F%A5%87/) |
+| 4 | [Prediction of Hospital Readmission](./Prediction%20of%20Hospital%20Readmission/) |
+| 5 | [Zomato Business EDA](./Zomato%20Business%20EDA/) |
+| 6 | [Supply Chain Delivery](./Supply%20Chain%20Delivery/) |
+| 7 | [Retail Sales Profitability](./Retail%20Sales%20Profitability/) |
+| 8 | [Customer RFM Segmentation](./Customer%20RFM%20Segmentation/) |
+| 9 | [Subscription Churn Cohorts](./Subscription%20Churn%20Cohorts/) |
+| 10 | [Marketing Channel Performance](./Marketing%20Channel%20Performance/) |
+| 11 | [Ecommerce Funnel](./Ecommerce%20Funnel/) |
+| 12 | [Workforce Attrition](./Workforce%20Attrition/) |
+| 13 | [Finance Budget Variance](./Finance%20Budget%20Variance/) |
+| 14 | [AB Test Checkout](./AB%20Test%20Checkout/) |
+| 15 | [Support SLA Analytics](./Support%20SLA%20Analytics/) |
 
 ## Let's Connect <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="30px" style="max-width:100%;">
 
