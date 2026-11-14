@@ -1,6 +1,30 @@
 # Python EDA Projects
 
-<img width="1280" height="720" alt="Default (7)" src="https://github.com/user-attachments/assets/810f9078-705c-4482-969b-dcc60847aa43" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/d9e88a7a-22da-439d-8b06-9d0ef3adca5e" />
+
+## Overview
+
+A collection of **15 Python exploratory data analysis projects** spanning retail, healthcare, marketing, finance, customer behaviour and operations. Explore practical business questions through data exploration and analysis.
+
+## Projects
+
+| # | Project | Analysis focus |
+|---:|---|---|
+| 1 | 911 Calls EDA | Emergency call patterns across time, locations and call categories. |
+| 2 | Flight Price EDA | Relationships between flight prices and travel characteristics. |
+| 3 | Google Local Market Sales Analysis | Local market sales patterns and business performance. |
+| 4 | Prediction of Hospital Readmission | Patient characteristics and factors associated with hospital readmission. |
+| 5 | Zomato Business EDA | Restaurant characteristics, ratings and pricing patterns. |
+| 6 | Supply Chain Delivery | Delivery performance, delays and operational patterns. |
+| 7 | Retail Sales Profitability | Sales, profit margins and product performance. |
+| 8 | Customer RFM Segmentation | Customer segmentation using recency, frequency and monetary value. |
+| 9 | Subscription Churn Cohorts | Subscription retention and churn across customer cohorts. |
+| 10 | Marketing Channel Performance | Channel effectiveness and marketing performance comparisons. |
+| 11 | Ecommerce Funnel | Customer progression and drop-off across funnel stages. |
+| 12 | Workforce Attrition | Workforce characteristics and attrition patterns. |
+| 13 | Finance Budget Variance | Differences between budgeted and actual financial performance. |
+| 14 | AB Test Checkout | Comparing checkout variants through experimental analysis. |
+| 15 | Support SLA Analytics | Support response times, resolution performance and SLA adherence. |
 
 ## Let's Connect <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="30px" style="max-width:100%;">
 
