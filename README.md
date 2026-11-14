@@ -1,6 +1,6 @@
 # Python EDA Projects
 
-<img width="1280" height="720" alt="Default (7)" src="https://github.com/user-attachments/assets/810f9078-705c-4482-969b-dcc60847aa43" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/d9e88a7a-22da-439d-8b06-9d0ef3adca5e" />
 
 ## Overview
 
